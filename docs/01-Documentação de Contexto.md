@@ -1,6 +1,6 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Bem-vindo ao nosso aplicativo de organização de planos alimentares para nutricionistas. Ele foi desenvolvido para simplificar o processo de criação e gerenciamento de planos alimentares personalizados para os clientes. Com nossa plataforma intuitiva, os nutricionistas podem criar e atualizar os planos de forma flexível e conveniente, garantindo que estejam alinhados com as necessidades individuais de cada cliente. 
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
