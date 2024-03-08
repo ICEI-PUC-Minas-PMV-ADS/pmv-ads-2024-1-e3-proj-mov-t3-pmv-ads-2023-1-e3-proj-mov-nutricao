@@ -1,6 +1,6 @@
 # Introdução
 
-Bem-vindo ao nosso aplicativo de organização de planos alimentares para nutricionistas. Ele foi desenvolvido para simplificar o processo de criação e gerenciamento de planos alimentares personalizados para os clientes. Com nossa plataforma intuitiva, os nutricionistas podem criar e atualizar os planos de forma flexível e conveniente, garantindo que estejam alinhados com as necessidades individuais de cada cliente. 
+Bem-vindo ao nosso aplicativo de criaçao  de planos alimentares para nutricionistas. Ele foi desenvolvido para simplificar o processo de criação dos planos alimentares personalizados para os clientes. Com nossa plataforma intuitiva, os nutricionistas podem criar e atualizar os planos de forma flexível e conveniente, garantindo que estejam alinhados com as necessidades individuais de cada cliente. 
 
 ## Problema
 
@@ -26,12 +26,12 @@ Atualmente os nutricionista enfretam muita dificuldade ao criar e gerenciar plan
 
 ## Justificativa
 
-Desenvolvemos esta aplicação para atender à necessidade de simplificar e otimizar o processo de criação e gerenciamento de planos alimentares personalizados para nutricionistas. Nosso objetivo é oferecer uma ferramenta eficiente e eficaz que permita aos profissionais da área de nutrição fornecer um serviço de alta qualidade aos seus clientes. Escolhemos nossos objetivos com base na compreensão das demandas do mercado e na necessidade de melhorar nossos processos de trabalho atuais. Acreditamos que ao focar em facilitar a criação de planos personalizados, simplificar o gerenciamento de planos e promover resultados de saúde positivos, podemos oferecer uma solução que atenda às necessidades dos nutricionistas e de seus clientes, contribuindo para o sucesso e bem-estar em termos de nutrição e saúde.
+Desenvolvemos esta aplicação para atender à necessidade de simplificar e otimizar o processo de criação de planos alimentares personalizados para nutricionistas. Nosso objetivo é oferecer uma ferramenta eficiente e eficaz que permita aos profissionais da área de nutrição fornecer um serviço de alta qualidade aos seus clientes. Escolhemos nossos objetivos com base na compreensão das demandas do mercado e na necessidade de melhorar nossos processos de trabalho atuais. Acreditamos que ao focar em facilitar a criação de planos personalizados, simplificar a criação de planos e promover resultados de saúde positivos, podemos oferecer uma solução que atenda às necessidades dos nutricionistas e de seus clientes, contribuindo para o sucesso e bem-estar em termos de nutrição e saúde.
 
 ## Público-Alvo
 
-Nosso público-alvo consiste principalmente em nutricionistas e profissionais da área de saúde que trabalham na criação e gerenciamento de planos alimentares personalizados para seus clientes. Esses profissionais podem incluir nutricionistas clínicos, nutricionistas esportivos, nutricionistas de saúde pública, entre outros especialistas em nutrição.
+Nosso público-alvo consiste principalmente em nutricionistas e profissionais da área de saúde que trabalham na criação de planos alimentares personalizados para seus clientes. Esses profissionais podem incluir nutricionistas clínicos, nutricionistas esportivos, nutricionistas de saúde pública, entre outros especialistas em nutrição.
 
-Além disso, nossa aplicação pode ser útil para estudantes de nutrição que estão aprendendo sobre a criação de planos alimentares e desejam praticar suas habilidades, bem como para clientes individuais que desejam monitorar sua própria dieta e nutrição sob a orientação de um nutricionista.
+Além disso, nossa aplicação pode ser útil para estudantes de nutrição que estão aprendendo sobre a criação de planos alimentares e desejam praticar suas habilidades.
 
 Ao direcionar nossa aplicação para esse público-alvo específico, podemos garantir que os recursos e funcionalidades atendam às necessidades e demandas dos profissionais da área de nutrição, ajudando-os a oferecer um serviço mais eficaz e personalizado aos seus clientes.
