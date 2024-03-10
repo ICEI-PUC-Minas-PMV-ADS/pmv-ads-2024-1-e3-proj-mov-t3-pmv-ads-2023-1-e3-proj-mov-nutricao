@@ -11,7 +11,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ### Joana Oliveira
 
-![Persona feminina](/docs/img/persona-feminina.jpg "Persona feminina")
+<img src="./img/persona-feminina.jpg" width="250" height="250">
 
 **Idade:** 50 anos
 
@@ -27,7 +27,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ### Michelle de Paula
 
-![Persona feminina](/docs/img/persona-feminina.jpg "Persona feminina")
+<img src="./img/persona-feminina.jpg" width="250" height="250">
 
 **Idade:** 28 anos
 
@@ -43,7 +43,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ### Tiago Ribeiro
 
-![Persona masculina](/docs/img/persona-masculina.jpg "Persona masculina")
+<img src="./img/persona-masculina.jpg" width="250" height="250">
 
 **Idade:** 35 anos
 
@@ -134,16 +134,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
-
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+![Diagrama de Casos de Uso](/docs/img/diagrama-de-casos-uso.png "Diagrama de Casos de Uso")
 
 # Matriz de Rastreabilidade
 
