@@ -5,76 +5,45 @@ A equipe se reuniu para discutir a definição do problema e, a partir disso, as
 ## Personas
 
 
-### Joana Oliveira
+|<img src='img/Joana.png' width='150'>   | **Joana Oliveira** <br> 60 anos   |
+|:---------------------------------------:|:-------------------------------:|
+|**Ocupação** | Nutricionista especializada em alimentação saudável e bem-estar.
+|**História** | Joana Oliveira sempre teve paixão por ajudar as pessoas a melhorarem sua qualidade de vida por meio da alimentação. Após anos de experiência em clínicas presenciais, decidiu dar um passo à frente e ingressar no mundo do trabalho remoto. Sua jornada começou a partir da necessidade de flexibilidade para conciliar a vida profissional e pessoal. Formada em Nutrição pela Universidade Federal, Joana buscou se aprimorar em tecnologias para otimizar a gestão de seus clientes.
+|**Motivação** | Trabalhar remotamente como nutricionista e organizar os clientes de forma eficiente, utilizando ferramentas digitais para simplificar o processo.
+|**Frustrações** | A dificuldade em organizar os clientes através de uma agenda convencional demanda muito tempo, buscando uma solução mais prática e moderna.|
 
-<img src="./img/persona-feminina.jpg" width="250" height="250">
+|<img src='img/Michelle.png' width='150'>   | **Michelle de Paula** <br> 36 anos  |
+|:---------------------------------------:|:-------------------------------:|
+|**Ocupação** | Nutricionista Esportiva e Coach Nutricional.
+|**Históriao** | Michelle de Paula sempre foi uma entusiasta da tecnologia, mas encontrou desafios ao tentar integrar ferramentas digitais em seu trabalho como nutricionista. Formada em Nutrição pela Universidade Estadual, ela buscou especialização em nutrição esportiva e coaching nutricional. Sua paixão pela área a levou a querer criar métodos mais eficazes para compartilhar planos alimentares com seus clientes.
+|**Motivação** | Desenvolver um método rápido e eficaz para compartilhar o plano alimentar de seus clientes, aproveitando as facilidades oferecidas pela tecnologia.
+|**Frustrações** | Falta de afinidade com as ferramentas tecnológicas disponíveis, o que impede a agilidade e eficiência desejadas no processo de compartilhamento de informações.|
 
-**Idade:** 50 anos
+|<img src='img/Tiago.png' width='150'>   | **Tiago Ribeiro** <br> 32 anos  |
+|:---------------------------------------:|:-------------------------------:|
+|**Ocupação** | Coach de Nutrição e Bem-Estar.
+|**História** | Tiago Ribeiro trilhou um caminho diversificado na área da saúde, desde a formação em Educação Física até a especialização em coaching de nutrição e bem-estar. Com uma abordagem holística, Tiago sempre buscou métodos para registrar e acompanhar o progresso de seus clientes de maneira mais organizada.
+|**Motivação** | Anotar e acompanhar o progresso de seus clientes de forma mais eficiente e organizada, utilizando tecnologias que facilitem a gestão de dados.
+|**Frustrações** | Dificuldade em organizar todos os progressos de seus clientes em um único lugar, buscando uma solução integrada e de fácil acesso para melhorar a eficiência do coaching nutricional.|
 
-**Ocupação:** Nutricionista especializada em alimentação saudável e bem-estar.
+|<img src='img/Gustavo.png' width='150'>   | **Gustavo Silva** <br> 21 anos  |
+|:---------------------------------------:|:-------------------------------:|
+|**Ocupação** | Estudante de Nutrição.
+|**História** | Gustavo Silva é estudante de nutrição, atualmente no sexto período. Ingressou na área por paixão à alimentação saudável, e têm descoberto outras abordagens não convencionais na nutrição.
+|**Motivação** | Ter experiência lidando com pacientes reais em estágio de Nutrição Clínica.
+|**Frustrações** | Dificuldade em aprender sobre organização de pacientes, buscando alguma solução mais automatizada.|
 
-**História:** Joana Oliveira sempre teve paixão por ajudar as pessoas a melhorarem sua qualidade de vida por meio da alimentação. Após anos de experiência em clínicas presenciais, decidiu dar um passo à frente e ingressar no mundo do trabalho remoto. Sua jornada começou a partir da necessidade de flexibilidade para conciliar a vida profissional e pessoal. Formada em Nutrição pela Universidade Federal, Joana buscou se aprimorar em tecnologias para otimizar a gestão de seus clientes.
-
-**Motivação Atual:** Trabalhar remotamente como nutricionista e organizar os clientes de forma eficiente, utilizando ferramentas digitais para simplificar o processo.
-
-**Frustrações Atuais:** A dificuldade em organizar os clientes através de uma agenda convencional demanda muito tempo, buscando uma solução mais prática e moderna.
-
-***
-
-### Michelle de Paula
-
-<img src="./img/persona-feminina.jpg" width="250" height="250">
-
-**Idade:** 28 anos
-
-**Ocupação:** Nutricionista Esportiva e Coach Nutricional.
-
-**História:** Michelle de Paula sempre foi uma entusiasta da tecnologia, mas encontrou desafios ao tentar integrar ferramentas digitais em seu trabalho como nutricionista. Formada em Nutrição pela Universidade Estadual, ela buscou especialização em nutrição esportiva e coaching nutricional. Sua paixão pela área a levou a querer criar métodos mais eficazes para compartilhar planos alimentares com seus clientes.
-
-**Motivação Atual:** Desenvolver um método rápido e eficaz para compartilhar o plano alimentar de seus clientes, aproveitando as facilidades oferecidas pela tecnologia.
-
-**Frustrações Atuais:** Falta de afinidade com as ferramentas tecnológicas disponíveis, o que impede a agilidade e eficiência desejadas no processo de compartilhamento de informações.
-
-***
-
-### Tiago Ribeiro
-
-<img src="./img/persona-masculina.jpg" width="250" height="250">
-
-**Idade:** 35 anos
-
-**Ocupação:** Coach de Nutrição e Bem-Estar.
-
-**História:** Tiago Ribeiro trilhou um caminho diversificado na área da saúde, desde a formação em Educação Física até a especialização em coaching de nutrição e bem-estar. Com uma abordagem holística, Tiago sempre buscou métodos para registrar e acompanhar o progresso de seus clientes de maneira mais organizada.
-
-**Motivação Atual:** Anotar e acompanhar o progresso de seus clientes de forma mais eficiente e organizada, utilizando tecnologias que facilitem a gestão de dados.
-
-**Frustrações Atuais:** Dificuldade em organizar todos os progressos de seus clientes em um único lugar, buscando uma solução integrada e de fácil acesso para melhorar a eficiência do coaching nutricional.
-
-### Gustavo Silva
-
-<img src="./img/persona-masculina.jpg" width="250" height="250">
-
-**Idade:** 21 anos
-
-**Ocupação:** Estudante de Nutrição.
-
-**História:** Gustavo Silva é estudante de nutrição, atualmente no sexto período. Ingressou na área por paixão à alimentação saudável, e têm descoberto outras abordagens não convencionais na nutrição.
-
-**Motivação Atual:** Ter experiência lidando com pacientes reais em estágio de Nutrição Clínica.
-
-**Frustrações Atuais:** Dificuldade em aprender sobre organização de pacientes, buscando alguma solução mais automatizada.
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO... `PERSONA`| QUERO/DESEJO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|------------------------------------|----------------------------------------|
-| Joana Oliveira           | Trabalhar remotamente como nutricionista e organizar clientes de forma eficiente. | Ter mais flexibilidade na gestão de clientes e otimizar meu tempo para conciliar vida profissional e pessoal. |
-| Michelle de Paula        | Obter um método rápido de compartilhar o plano alimentar de seus pacientes. | Aumentar a eficiência na entrega de planos alimentares, proporcionando melhor suporte e satisfação aos clientes. |
-| Tiago Ribeiro            | Anotar o progresso de seus pacientes de maneira organizada. | Facilitar o acompanhamento do progresso dos clientes, proporcionando um coaching mais eficaz e personalizado. |
-| Gustavo Silva            | Aprender sobre o processo de atender um cliente. | Ter um melhor desenvolvimento acadêmico e me tornar um bom profissional. |
+|Joana Oliveira|	Trabalhar remotamente como nutricionista e organizar clientes de forma eficiente. | Ter mais flexibilidade na gestão de clientes e otimizar meu tempo para conciliar vida profissional e pessoal. |
+|Michelle de Paula| Obter um método rápido de compartilhar o plano alimentar de seus clientes. | Aumentar a eficiência na entrega de planos alimentares, proporcionando melhor suporte e satisfação aos clientes. |
+|Tiago Ribeiro|	Anotar o progresso de seus clientes de maneira organizada. | Facilitar o acompanhamento do progresso dos clientes, proporcionando um coaching mais eficaz e personalizado. |
+| Gustavo Silva| Aprender sobre o processo de atender um cliente. | Ter um melhor desenvolvimento acadêmico e me tornar um bom profissional. |
 
 ## Modelagem do Processo de Negócio 
 
@@ -151,15 +120,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
 
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
-
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
-
-> **Links Úteis**:
-> - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
-> - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
-> - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
-
+<img src='img/Matriz.png' width='1000'>
 
 # Gerenciamento de Projeto
 
@@ -167,19 +128,16 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 ## Gerenciamento de Tempo
 
-Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o gerente de projetos agenda e coordena tarefas dentro de um projeto para estimar o tempo necessário de conclusão.
-
-![Diagrama de rede simplificado notação francesa (método francês)](img/02-diagrama-rede-simplificado.png)
-
-O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
-
-![Gráfico de Gantt](img/02-grafico-gantt.png)
+<img src='img/Gantt1.png' width='1000'>
+<img src='img/Gantt2.png' width='1000'>
+<img src='img/Gantt3.png' width='1000'>
+<img src='img/Gantt4.png' width='500'>
 
 ## Gerenciamento de Equipe
 
-O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
+O gerenciamento de equipe está sendo feito através do Trello.
 
-![Simple Project Timeline](img/02-project-timeline.png)
+<img src='img/Projeto.png' width='1000'>
 
 ## Gestão de Orçamento
 
