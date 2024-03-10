@@ -1,10 +1,6 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A equipe se reuniu para discutir a definição do problema e, a partir disso, as possíveis soluções a partir da experiência dos usuários. Após isso, foi possível levantar os detalhes seguintes nessa seção.
 
 ## Personas
 
@@ -55,6 +51,20 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 **Frustrações Atuais:** Dificuldade em organizar todos os progressos de seus clientes em um único lugar, buscando uma solução integrada e de fácil acesso para melhorar a eficiência do coaching nutricional.
 
+### Gustavo Silva
+
+<img src="./img/persona-masculina.jpg" width="250" height="250">
+
+**Idade:** 21 anos
+
+**Ocupação:** Estudante de Nutrição.
+
+**História:** Gustavo Silva é estudante de nutrição, atualmente no sexto período. Ingressou na área por paixão à alimentação saudável, e têm descoberto outras abordagens não convencionais na nutrição.
+
+**Motivação Atual:** Ter experiência lidando com pacientes reais em estágio de Nutrição Clínica.
+
+**Frustrações Atuais:** Dificuldade em aprender sobre organização de pacientes, buscando alguma solução mais automatizada.
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
@@ -62,8 +72,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 | Joana Oliveira           | Trabalhar remotamente como nutricionista e organizar clientes de forma eficiente. | Ter mais flexibilidade na gestão de clientes e otimizar meu tempo para conciliar vida profissional e pessoal. |
-| Michelle de Paula        | Obter um método rápido de compartilhar o plano alimentar de seus clientes. | Aumentar a eficiência na entrega de planos alimentares, proporcionando melhor suporte e satisfação aos clientes. |
-| Tiago Ribeiro            | Anotar o progresso de seus clientes de maneira organizada. | Facilitar o acompanhamento do progresso dos clientes, proporcionando um coaching mais eficaz e personalizado. |
+| Michelle de Paula        | Obter um método rápido de compartilhar o plano alimentar de seus pacientes. | Aumentar a eficiência na entrega de planos alimentares, proporcionando melhor suporte e satisfação aos clientes. |
+| Tiago Ribeiro            | Anotar o progresso de seus pacientes de maneira organizada. | Facilitar o acompanhamento do progresso dos clientes, proporcionando um coaching mais eficaz e personalizado. |
+| Gustavo Silva            | Aprender sobre o processo de atender um cliente. | Ter um melhor desenvolvimento acadêmico e me tornar um bom profissional. |
 
 ## Modelagem do Processo de Negócio 
 
