@@ -1,4 +1,4 @@
- Arquitetura da Solução
+ # Arquitetura da Solução
 
 Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
 
@@ -6,7 +6,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Diagrama de Classes
 
-![Diagrama de Classes](img/02-mob-arch.png)
+![Diagrama de Classes](img/Classe.jpeg)
 
 ## Modelo ER
 
