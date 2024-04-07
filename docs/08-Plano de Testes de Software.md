@@ -6,19 +6,20 @@ Plano de teste de Software criado a partir dos requisitos funcionais declarados.
 
 
 1.	RF-001: Cadastro de Nutricionista (ALTA)
-o	Descrição: O aplicativo deve permitir que um nutricionista se cadastre.
-o	Plano de Teste:
-	Cenário de Teste 1: Registro Bem-Sucedido
-1.	Abra o aplicativo.
-2.	Navegue para a tela de registro.
-3.	Insira informações válidas (nome, e-mail, senha, etc.).
-4.	Clique no botão de registro.
-5.	Verifique se o nutricionista é redirecionado para a tela de login.
-	Cenário de Teste 2: Registro com Dados Inválidos
-1.	Repita os passos 1 a 3 do cenário anterior.
-2.	Insira informações inválidas (por exemplo, e-mail inválido).
-3.	Clique no botão de registro.
-4.	Verifique se o aplicativo exibe uma mensagem de erro apropriada.
+   Descrição: O aplicativo deve permitir que um nutricionista se cadastre.
+   Plano de Teste:
+     Cenário de Teste 1: Registro Bem-Sucedido
+      1.	Abra o aplicativo.
+      2.	Navegue para a tela de registro.
+      3.	Insira informações válidas (nome, e-mail, senha, etc.).
+      4.	Clique no botão de registro.
+      5.	Verifique se o nutricionista é redirecionado para a tela de login.
+    	Cenário de Teste 2: Registro com Dados Inválidos
+      1.	Repita os passos 1 a 3 do cenário anterior.
+      2.	Insira informações inválidas (por exemplo, e-mail inválido).
+      3.	Clique no botão de registro.
+      4.	Verifique se o aplicativo exibe uma mensagem de erro apropriada.
+         
 2.	RF-002: Login de Nutricionista (ALTA)
 o	Descrição: O aplicativo deve permitir que um nutricionista faça login.
 o	Plano de Teste:
