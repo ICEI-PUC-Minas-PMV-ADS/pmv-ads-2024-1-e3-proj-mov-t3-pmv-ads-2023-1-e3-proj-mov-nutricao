@@ -55,6 +55,12 @@ A aplicação atualmente oferece uma solução eficaz para nutricionistas e prof
 
 A abordagem para modelar os processos de negócio neste projeto visa principalmente alinhar as estratégias desejadas, destacar o valor de cada processo e promover um entendimento compartilhado sobre o funcionamento das atividades, que servirão como base para o desenvolvimento da aplicação. O objetivo é estabelecer uma prática de melhoria contínua dos processos em toda a organização.
 
+### Processo 1 - Criação Plano Alimentar com PDF
+
+O processo começa com a coleta de informações do cliente, incluindo preferências alimentares e metas de saúde. Esses dados são então analisados para criar um plano alimentar personalizado, que é revisado e ajustado conforme necessário. Em paralelo, as informações do plano alimentar são utilizadas para gerar um documento PDF profissional, contendo detalhes relevantes como alimentos recomendados e horários de refeição. Enquanto o cliente segue o plano alimentar, seu progresso é monitorado e o plano é revisado periodicamente para garantir sua eficácia contínua. Esses processos combinados garantem uma abordagem holística para o suporte nutricional dos clientes, promovendo resultados positivos e satisfação.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t3-pmv-ads-2023-1-e3-proj-mov-nutricao/assets/89494470/470c465f-9c67-44be-9d20-59ccaece1572)
+
 ## Indicadores de Desempenho 
 
 
