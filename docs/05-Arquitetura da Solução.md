@@ -19,7 +19,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 ## Modelo Físico
 O arquivo de script da criação das tabelas do banco de dados pode ser encontrado na pasta src.
 
-<a href="docs/src"> Script App Nutricionista</a>
+<a href="/src"> Script App Nutricionista</a>
 
 ## Tecnologias Utilizadas
 
