@@ -1,4 +1,4 @@
- Metodologia
+# Metodologia
 
 A seguinte metodologia e maneira de trabalho em equipe foi definida:
 
