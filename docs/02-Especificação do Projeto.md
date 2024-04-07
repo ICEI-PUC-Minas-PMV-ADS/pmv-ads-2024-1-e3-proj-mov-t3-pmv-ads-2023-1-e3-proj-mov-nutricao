@@ -45,7 +45,18 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |Tiago Ribeiro|	Anotar o progresso de seus clientes de maneira organizada. | Facilitar o acompanhamento do progresso dos clientes, proporcionando um coaching mais eficaz e personalizado. |
 | Gustavo Silva| Aprender sobre o processo de atender um cliente. | Ter um melhor desenvolvimento acadêmico e me tornar um bom profissional. |
 
+## Modelagem de Processos de Negocio
+
+### Análise da Situação Atual
+
+A aplicação atualmente oferece uma solução eficaz para nutricionistas e profissionais da área na organização de planos alimentares personalizados para seus clientes, culminando na geração de PDFs profissionais. No entanto, ainda existem áreas de oportunidade para aprimoramento, como a integração de dados, desenvolvimento de recursos analíticos e suporte móvel. Investimentos nessas áreas podem não apenas melhorar a experiência do usuário, mas também aumentar a eficácia dos profissionais no suporte à saúde e nutrição de seus clientes.
+
+### Descrição Geral da Proposta
+
+A abordagem para modelar os processos de negócio neste projeto visa principalmente alinhar as estratégias desejadas, destacar o valor de cada processo e promover um entendimento compartilhado sobre o funcionamento das atividades, que servirão como base para o desenvolvimento da aplicação. O objetivo é estabelecer uma prática de melhoria contínua dos processos em toda a organização.
+
 ## Indicadores de Desempenho 
+
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t3-pmv-ads-2023-1-e3-proj-mov-nutricao/assets/89494470/b31cef6f-1d32-4dd0-a77f-8b9469b72445)
 
