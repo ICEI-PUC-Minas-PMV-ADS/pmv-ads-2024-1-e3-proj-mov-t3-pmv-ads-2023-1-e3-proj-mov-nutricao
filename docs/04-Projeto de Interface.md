@@ -2,7 +2,7 @@
 
 ## Diagrama de Fluxo
 
-![image](img/Fluxo.png)
+<img src='img/Fluxo.png' width='500'>
 
 
 ## Wireframes
