@@ -43,6 +43,26 @@ Na aplicação dos testes de usabilidade será utilizada a versão à seguir an�
 * Eficiência no Cumprimento de Tarefas
 * Satisfação Geral com a Experiência de Uso
 
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t3-pmv-ads-2023-1-e3-proj-mov-nutricao/assets/114709512/b815b678-f8ef-4462-a8f3-f24d4c0dba91)
+
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t3-pmv-ads-2023-1-e3-proj-mov-nutricao/assets/114709512/f3149290-e542-4413-887f-63c9e1c6239f)
+
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t3-pmv-ads-2023-1-e3-proj-mov-nutricao/assets/114709512/9d15b0c8-02b0-4098-bdd9-07f5337ddad3)
+
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t3-pmv-ads-2023-1-e3-proj-mov-nutricao/assets/114709512/a7d18e1e-e3a1-4b99-bc3c-85ed98b5f5eb)
+
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t3-pmv-ads-2023-1-e3-proj-mov-nutricao/assets/114709512/4efbcc64-e844-4207-8ba1-876bbbb9d310)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t3-pmv-ads-2023-1-e3-proj-mov-nutricao/assets/114709512/aa4a310f-d613-4e9c-a83b-2c2c27ca7384)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t3-pmv-ads-2023-1-e3-proj-mov-nutricao/assets/114709512/06450399-f7a3-48be-8577-8913cef373cd)
+
+
+
+
+  
+
+
   
 > **Links Úteis**:
 > - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
