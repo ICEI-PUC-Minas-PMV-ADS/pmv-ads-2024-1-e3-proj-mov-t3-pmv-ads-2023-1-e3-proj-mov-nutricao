@@ -1,12 +1,23 @@
 # Registro de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
+## RF-001: Cadastro de Nutricionista (ALTA) Descrição: O aplicativo deve permitir que um nutricionista se cadastre
 
-Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
+Cenário de Teste 1: Registro Bem-Sucedido
 
-## Avaliação
+![Registro](img/Registro1.png)
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+![Registro](img/Registro3.png)
 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+Cenário de Teste 2: Registro com Dados Inválidos
+
+![Registro](img/Registro2.png)
+
+### RF-002: Login de Nutricionista (ALTA) Descrição: O aplicativo deve permitir que um nutricionista faça login
+
+Cenário de Teste 1: Login Bem-Sucedido
+
+![Login](img/Login3.png)
+
+Cenário de Teste 2: Login com Credenciais Inválidas
+
+![Login](img/Login2.png)
