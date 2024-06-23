@@ -1,0 +1,29 @@
+message: Please cite this software using these metadata.
+title: Nutrição
+authors:
+  - family-names: Henrique Argentino Dias
+    given-names: Pedro
+  - family-names: 
+    given-names: 
+  - family-names: 
+    given-names: 
+  - family-names: 
+    given-names: 
+  - family-names: 
+    given-names: 
+  - family-names: 
+    given-names: 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: 
+    given-names: 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Herman Silva
+    given-names: Harison
+keywords:
+  - Gerenciamento
+  - Nutrição
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t3-pmv-ads-2023-1-e3-proj-mov-nutricao
+version: 0.7.5
+date-released: 2024-06-23
